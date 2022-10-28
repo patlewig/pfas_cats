@@ -3,7 +3,7 @@ pfas_cats
 
 Code repository to support the following manuscript: **Patlewicz G**, Richard AM, Wiliams AJ, Judson RS, Thomas RS. 2022. Towards reproducible structure-based chemical categories for PFAS to inform and evaluate toxicity and toxicokinetic testing. Computational Toxicology *in press*
 
-Associated data files are available at:
+Associated data files are available at: https://doi.org/10.23645/epacomptox.21430380
 
 Project Organization
 ------------
